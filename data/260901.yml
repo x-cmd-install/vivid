@@ -1,0 +1,57 @@
+about:
+  description: A themeable LS_COLORS generator with a rich filetype datebase
+  license: Apache-2.0
+  homepage: 
+  head: 005d0f2
+  archived: false
+  latestVersion: v0.11.1
+  collectedAt: 2026-09-01T05:42:35Z
+timeline:
+  created: 2018-11-19
+  lastCommit: 2026-08-31
+  lastRelease: 2026-04-09
+popularity:
+  star: 2258
+  watcher: 20
+  fork: 108
+  release: 14
+  contributor: 53
+  pullRequest: 23
+  issue: 91
+language:
+  Rust: 29755
+  Dockerfile: 380
+totalLine: 30135
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 0
+    mergedPR: 7
+    openPR: 2
+    closedIssue: 0
+    openIssue: 0
+    commit: 7
+  last90d:
+    since: 2026-06-03
+    release: 0
+    mergedPR: 24
+    openPR: 3
+    closedIssue: 1
+    openIssue: 3
+    commit: 25
+  last180d:
+    since: 2026-03-05
+    release: 3
+    mergedPR: 27
+    openPR: 7
+    closedIssue: 3
+    openIssue: 4
+    commit: 32
+  last360d:
+    since: 2025-09-06
+    release: 3
+    mergedPR: 38
+    openPR: 10
+    closedIssue: 6
+    openIssue: 5
+    commit: 44
