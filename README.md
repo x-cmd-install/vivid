@@ -12,35 +12,7 @@ A themeable LS_COLORS generator with a rich filetype datebase
 x install vivid
 ```
 
-## Source
-
-- **Upstream**: <https://github.com/sharkdp/vivid>
-- **License**: Apache-2.0
-
-## Release
-
-- **Latest**: `v0.11.1` (2026-04-09)
-- **Last commit**: 2026-09-07
-- **Assets in release**: 19
-- **Published**: 2026-04-09T20:12:00Z
-
-## Popularity
-
-- **Stars**: 2,259 · **Forks**: 110 · **Open issues**: 91 · **Contributors**: 53
-
-## Totals (cumulative)
-
-- **Releases**: 14 · **Merged PRs**: 116 · **Open PRs**: 12 · **Closed issues**: 71 · **Open issues**: 20 · **Commits**: 372
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 7 | 3 | 0 | 0 | 8 |
-| 90d | 2026-06-12 | 0 | 26 | 4 | 2 | 2 | 27 |
-| 360d | 2025-09-15 | 3 | 40 | 11 | 7 | 4 | 46 |
-
-## Code size
+## Code insight
 
 Total: **5,772** lines of code across **51** files in the top 5 languages.
 
@@ -62,13 +34,79 @@ Lowest-scoring checks:
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
+## Source
+
+- **Upstream**: <https://github.com/sharkdp/vivid>
+- **License**: Apache-2.0
+
+## Release
+
+- **Latest**: `v0.11.1` (2026-04-09)
+- **Last commit**: 2026-09-07
+- **Assets in release**: 19
+
+## Popularity
+
+- **Stars**: 2,259 · **Forks**: 110 · **Open issues**: 91 · **Contributors**: 53
+
+## Totals (cumulative)
+
+- **Releases**: 14 · **Merged PRs**: 116 · **Open PRs**: 12 · **Closed issues**: 71 · **Open issues**: 20 · **Commits**: 372
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 7 | 3 | 0 | 0 | 8 |
+| last60d | 2026-07-12 | 0 | 26 | 4 | 2 | 2 | 27 |
+| 90d | 2026-06-12 | 0 | 26 | 4 | 2 | 2 | 27 |
+| last180d | 2026-03-14 | 3 | 29 | 8 | 4 | 3 | 34 |
+| 360d | 2025-09-15 | 3 | 40 | 11 | 7 | 4 | 46 |
+| last720d | 2024-09-20 | 3 | 48 | 12 | 15 | 7 | 92 |
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [vivid-musl_0.11.1_amd64.deb](https://github.com/sharkdp/vivid/releases/download/v0.11.1/vivid-musl_0.11.1_amd64.deb) | 430.7 KiB | `runtime/deb/amd64` |
+| [vivid-musl_0.11.1_armhf.deb](https://github.com/sharkdp/vivid/releases/download/v0.11.1/vivid-musl_0.11.1_armhf.deb) | 411.9 KiB | `runtime/deb/armhf` |
+| [vivid-musl_0.11.1_i686.deb](https://github.com/sharkdp/vivid/releases/download/v0.11.1/vivid-musl_0.11.1_i686.deb) | 447.2 KiB | `other` |
+| [vivid-v0.11.1-aarch64-apple-darwin.tar.gz](https://github.com/sharkdp/vivid/releases/download/v0.11.1/vivid-v0.11.1-aarch64-apple-darwin.tar.gz) | 402.0 KiB | `native/darwin/arm64` |
+| [vivid-v0.11.1-aarch64-unknown-linux-gnu.tar.gz](https://github.com/sharkdp/vivid/releases/download/v0.11.1/vivid-v0.11.1-aarch64-unknown-linux-gnu.tar.gz) | 413.6 KiB | `native/linux/arm64/glibc` |
+| [vivid-v0.11.1-arm-unknown-linux-gnueabihf.tar.gz](https://github.com/sharkdp/vivid/releases/download/v0.11.1/vivid-v0.11.1-arm-unknown-linux-gnueabihf.tar.gz) | 435.4 KiB | `native/linux/arm/glibc` |
+| [vivid-v0.11.1-arm-unknown-linux-musleabihf.tar.gz](https://github.com/sharkdp/vivid/releases/download/v0.11.1/vivid-v0.11.1-arm-unknown-linux-musleabihf.tar.gz) | 461.9 KiB | `native/linux/arm/musl` |
+| [vivid-v0.11.1-i686-pc-windows-msvc.zip](https://github.com/sharkdp/vivid/releases/download/v0.11.1/vivid-v0.11.1-i686-pc-windows-msvc.zip) | 346.2 KiB | `native/win/x64` |
+| [vivid-v0.11.1-i686-unknown-linux-gnu.tar.gz](https://github.com/sharkdp/vivid/releases/download/v0.11.1/vivid-v0.11.1-i686-unknown-linux-gnu.tar.gz) | 467.0 KiB | `native/linux/x86/glibc` |
+| [vivid-v0.11.1-i686-unknown-linux-musl.tar.gz](https://github.com/sharkdp/vivid/releases/download/v0.11.1/vivid-v0.11.1-i686-unknown-linux-musl.tar.gz) | 500.1 KiB | `native/linux/x86/musl` |
+| [vivid-v0.11.1-x86_64-apple-darwin.tar.gz](https://github.com/sharkdp/vivid/releases/download/v0.11.1/vivid-v0.11.1-x86_64-apple-darwin.tar.gz) | 430.8 KiB | `native/darwin/x64` |
+| [vivid-v0.11.1-x86_64-pc-windows-gnu.zip](https://github.com/sharkdp/vivid/releases/download/v0.11.1/vivid-v0.11.1-x86_64-pc-windows-gnu.zip) | 418.3 KiB | `native/win/x64` |
+| [vivid-v0.11.1-x86_64-pc-windows-msvc.zip](https://github.com/sharkdp/vivid/releases/download/v0.11.1/vivid-v0.11.1-x86_64-pc-windows-msvc.zip) | 366.1 KiB | `native/win/x64` |
+| [vivid-v0.11.1-x86_64-unknown-linux-gnu.tar.gz](https://github.com/sharkdp/vivid/releases/download/v0.11.1/vivid-v0.11.1-x86_64-unknown-linux-gnu.tar.gz) | 444.2 KiB | `native/linux/x64/glibc` |
+| [vivid-v0.11.1-x86_64-unknown-linux-musl.tar.gz](https://github.com/sharkdp/vivid/releases/download/v0.11.1/vivid-v0.11.1-x86_64-unknown-linux-musl.tar.gz) | 489.6 KiB | `native/linux/x64/musl` |
+| [vivid_0.11.1_amd64.deb](https://github.com/sharkdp/vivid/releases/download/v0.11.1/vivid_0.11.1_amd64.deb) | 391.3 KiB | `runtime/deb/amd64` |
+| [vivid_0.11.1_arm64.deb](https://github.com/sharkdp/vivid/releases/download/v0.11.1/vivid_0.11.1_arm64.deb) | 361.6 KiB | `runtime/deb/arm64` |
+| [vivid_0.11.1_armhf.deb](https://github.com/sharkdp/vivid/releases/download/v0.11.1/vivid_0.11.1_armhf.deb) | 384.4 KiB | `runtime/deb/armhf` |
+| [vivid_0.11.1_i686.deb](https://github.com/sharkdp/vivid/releases/download/v0.11.1/vivid_0.11.1_i686.deb) | 420.3 KiB | `other` |
+
+## Distribution status
+
+Reported by **34** distros on [repology.org](https://repology.org/project/vivid). **17** are ✅ on the latest upstream release, **14** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `0.11.1` | ✅ latest |
+| Homebrew | `0.11.1` | ✅ latest |
+| Nix unstable | `0.11.1` | ✅ latest |
+| Void | `0.11.1` | ✅ latest |
+| Alpine edge | `0.11.1` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for vivid lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `vivid` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/vivid.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/vivid.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:56:36Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:45:04Z._
