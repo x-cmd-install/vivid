@@ -1,0 +1,404 @@
+- repo: gnuguix
+  srcname: vivid
+  binname: vivid
+  visiblename: vivid
+  version: 0.10.1
+  origversion: null
+  status: outdated
+  summary: LS_COLORS environment variable manager
+- repo: homebrew
+  srcname: vivid
+  visiblename: vivid
+  version: 0.11.1
+  origversion: null
+  status: newest
+  summary: Generator for LS_COLORS with support for multiple color themes
+- repo: alpine_3_21
+  subrepo: community
+  srcname: vivid
+  binname: vivid
+  visiblename: vivid
+  version: 0.10.1
+  origversion: 0.10.1-r0
+  status: outdated
+  summary: Themeable LS_COLORS generator with a rich filetype database
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - Apache-2.0 AND MIT
+- repo: alpine_3_22
+  subrepo: community
+  srcname: vivid
+  binname: vivid
+  visiblename: vivid
+  version: 0.10.1
+  origversion: 0.10.1-r0
+  status: outdated
+  summary: Themeable LS_COLORS generator with a rich filetype database
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - Apache-2.0 AND MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: vivid
+  binname: vivid
+  visiblename: vivid
+  version: 0.10.1
+  origversion: 0.10.1-r0
+  status: outdated
+  summary: Themeable LS_COLORS generator with a rich filetype database
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - Apache-2.0 AND MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: vivid
+  binname: vivid
+  visiblename: vivid
+  version: 0.11.1
+  origversion: 0.11.1-r0
+  status: newest
+  summary: Themeable LS_COLORS generator with a rich filetype database
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - Apache-2.0 AND MIT
+- repo: alpine_edge
+  subrepo: community
+  srcname: vivid
+  binname: vivid
+  visiblename: vivid
+  version: 0.11.1
+  origversion: 0.11.1-r0
+  status: newest
+  summary: Themeable LS_COLORS generator with a rich filetype database
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - Apache-2.0 AND MIT
+- repo: arch
+  subrepo: extra
+  srcname: vivid
+  binname: vivid
+  visiblename: vivid
+  version: 0.11.1
+  origversion: 0.11.1-1
+  status: newest
+  summary: LS_COLORS manager with multiple themes
+  licenses:
+    - Apache-2.0
+    - MIT
+- repo: chimera
+  subrepo: user
+  srcname: vivid
+  binname: vivid
+  visiblename: vivid
+  version: 0.10.1
+  origversion: 0.10.1-r0
+  status: outdated
+  summary: Themeable LS_COLORS generator
+  licenses:
+    - MIT AND Apache-2.0
+- repo: chimera
+  subrepo: user
+  srcname: vivid
+  binname: vivid-doc
+  visiblename: vivid-doc
+  version: 0.10.1
+  origversion: 0.10.1-r0
+  status: outdated
+  summary: Themeable LS_COLORS generator (documentation)
+  licenses:
+    - MIT AND Apache-2.0
+- repo: freebsd
+  srcname: sysutils/vivid
+  binname: vivid
+  visiblename: sysutils/vivid
+  version: 0.10.1
+  origversion: 0.10.1_10
+  status: outdated
+  summary: Themeable LS_COLORS generator with a rich filetype datebase
+  maintainers:
+    - 0mp@freebsd.org
+  categories:
+    - sysutils
+- repo: gentoo_ovl_guru
+  srcname: app-shells/vivid
+  visiblename: app-shells/vivid
+  version: 0.9.0
+  origversion: null
+  status: legacy
+  summary: A themeable LS_COLORS generator with a rich filetype datebase
+  maintainers:
+    - alexey@zapparov.com
+  licenses:
+    - LGPL-3+
+    - MIT
+  categories:
+    - app-shells
+- repo: gentoo_ovl_guru
+  srcname: app-shells/vivid
+  visiblename: app-shells/vivid
+  version: 0.10.1
+  origversion: null
+  status: outdated
+  summary: A themeable LS_COLORS generator with a rich filetype datebase
+  maintainers:
+    - alexey@zapparov.com
+  licenses:
+    - '|| ( Apache-2.0 MIT ) LGPL-3+ MIT Unicode-DFS-2016'
+  categories:
+    - app-shells
+- repo: liguros_stable
+  srcname: app-shells/vivid
+  visiblename: app-shells/vivid
+  version: 0.10.1
+  origversion: null
+  status: outdated
+  summary: A themeable LS_COLORS generator with a rich filetype datebase
+  maintainers:
+    - alexey@zapparov.com
+  licenses:
+    - '|| ( Apache-2.0 MIT ) LGPL-3+ MIT Unicode-DFS-2016'
+  categories:
+    - app-shells
+- repo: liguros_stable
+  srcname: app-shells/vivid
+  visiblename: app-shells/vivid
+  version: 0.9.0
+  origversion: null
+  status: legacy
+  summary: A themeable LS_COLORS generator with a rich filetype datebase
+  maintainers:
+    - alexey@zapparov.com
+  licenses:
+    - LGPL-3+
+    - MIT
+  categories:
+    - app-shells
+- repo: liguros_develop
+  srcname: app-shells/vivid
+  visiblename: app-shells/vivid
+  version: 0.9.0
+  origversion: null
+  status: legacy
+  summary: A themeable LS_COLORS generator with a rich filetype datebase
+  maintainers:
+    - alexey@zapparov.com
+  licenses:
+    - LGPL-3+
+    - MIT
+  categories:
+    - app-shells
+- repo: liguros_develop
+  srcname: app-shells/vivid
+  visiblename: app-shells/vivid
+  version: 0.10.1
+  origversion: null
+  status: outdated
+  summary: A themeable LS_COLORS generator with a rich filetype datebase
+  maintainers:
+    - alexey@zapparov.com
+  licenses:
+    - '|| ( Apache-2.0 MIT ) LGPL-3+ MIT Unicode-DFS-2016'
+  categories:
+    - app-shells
+- repo: macports
+  srcname: sysutils/vivid
+  binname: vivid
+  visiblename: vivid
+  version: 0.11.1
+  origversion: null
+  status: newest
+  summary: A themeable LS_COLORS generator with a rich filetype datebase
+  maintainers:
+    - intactio@github
+  licenses:
+    - Apache-2
+    - MIT
+  categories:
+    - sysutils
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: vivid
+  binname: vivid
+  visiblename: vivid
+  version: 0.11.1
+  origversion: 0.11.1-1
+  status: newest
+  summary: LS_COLORS manager with multiple themes
+  licenses:
+    - Apache-2.0
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: vivid
+  binname: vivid
+  visiblename: vivid
+  version: 0.11.1
+  origversion: 0.11.1-1
+  status: newest
+  summary: LS_COLORS manager with multiple themes
+  licenses:
+    - Apache-2.0
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: vivid
+  binname: vivid
+  visiblename: vivid
+  version: 0.11.1
+  origversion: 0.11.1-1
+  status: newest
+  summary: LS_COLORS manager with multiple themes
+  licenses:
+    - Apache-2.0
+    - MIT
+- repo: msys2_clang64
+  srcname: mingw-w64-vivid
+  binname: mingw-w64-clang-x86_64-vivid
+  visiblename: mingw-w64-clang-x86_64-vivid
+  version: 0.11.1
+  origversion: 0.11.1-1
+  status: newest
+  summary: A themeable LS_COLORS generator with a rich filetype datebase (mingw-w64)
+  licenses:
+    - spdx:MIT OR Apache-2.0
+- repo: msys2_clangarm64
+  srcname: mingw-w64-vivid
+  binname: mingw-w64-clang-aarch64-vivid
+  visiblename: mingw-w64-clang-aarch64-vivid
+  version: 0.11.1
+  origversion: 0.11.1-1
+  status: newest
+  summary: A themeable LS_COLORS generator with a rich filetype datebase (mingw-w64)
+  licenses:
+    - spdx:MIT OR Apache-2.0
+- repo: msys2_ucrt64
+  srcname: mingw-w64-vivid
+  binname: mingw-w64-ucrt-x86_64-vivid
+  visiblename: mingw-w64-ucrt-x86_64-vivid
+  version: 0.11.1
+  origversion: 0.11.1-1
+  status: newest
+  summary: A themeable LS_COLORS generator with a rich filetype datebase (mingw-w64)
+  licenses:
+    - spdx:MIT OR Apache-2.0
+- repo: nix_stable_24_05
+  srcname: vivid
+  visiblename: vivid
+  version: 0.9.0
+  origversion: null
+  status: outdated
+  summary: A generator for LS_COLORS with support for multiple color themes
+  maintainers:
+    - w@wdtz.org
+  licenses:
+    - Apache-2.0
+    - MIT
+- repo: nix_stable_24_11
+  srcname: vivid
+  visiblename: vivid
+  version: 0.10.1
+  origversion: null
+  status: outdated
+  summary: Generator for LS_COLORS with support for multiple color themes
+  maintainers:
+    - w@wdtz.org
+  licenses:
+    - Apache-2.0
+    - MIT
+- repo: nix_stable_25_05
+  srcname: vivid
+  visiblename: vivid
+  version: 0.10.1
+  origversion: null
+  status: outdated
+  summary: Generator for LS_COLORS with support for multiple color themes
+  maintainers:
+    - w@wdtz.org
+  licenses:
+    - Apache-2.0
+    - MIT
+- repo: nix_stable_25_11
+  srcname: vivid
+  visiblename: vivid
+  version: 0.10.1
+  origversion: null
+  status: outdated
+  summary: Generator for LS_COLORS with support for multiple color themes
+  maintainers:
+    - w@wdtz.org
+  licenses:
+    - Apache-2.0
+    - MIT
+- repo: nix_stable_26_05
+  srcname: vivid
+  visiblename: vivid
+  version: 0.11.1
+  origversion: null
+  status: newest
+  summary: Generator for LS_COLORS with support for multiple color themes
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - Apache-2.0
+    - MIT
+- repo: nix_unstable
+  srcname: vivid
+  visiblename: vivid
+  version: 0.11.1
+  origversion: null
+  status: newest
+  summary: Generator for LS_COLORS with support for multiple color themes
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - Apache-2.0
+    - MIT
+- repo: parabola
+  subrepo: extra
+  srcname: vivid
+  binname: vivid
+  visiblename: vivid
+  version: 0.11.1
+  origversion: 0.11.1-1
+  status: newest
+  summary: LS_COLORS manager with multiple themes
+  licenses:
+    - Apache-2.0
+    - MIT
+- repo: scoop
+  subrepo: main
+  binname: vivid
+  visiblename: vivid
+  version: 0.11.1
+  origversion: null
+  status: newest
+  licenses:
+    - Apache-2.0|MIT
+- repo: termux
+  srcname: vivid
+  binname: vivid
+  visiblename: vivid
+  version: 0.11.1
+  origversion: null
+  status: newest
+  summary: A themeable LS_COLORS generator with a rich filetype datebase
+  maintainers:
+    - termux@github
+- repo: void_x86_64
+  subrepo: x86_64
+  srcname: vivid
+  binname: vivid
+  visiblename: vivid
+  version: 0.11.1
+  origversion: 0.11.1_1
+  status: newest
+  summary: LS_COLORS with support for multiple color themes
+  maintainers:
+    - orphan@voidlinux.org
+  licenses:
+    - Apache-2.0 OR MIT
