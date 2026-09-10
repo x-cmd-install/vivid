@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 441052,
       "digest": "sha256:48d3e42eba7b701ec64325305457d208e8b1c4c538d6763efbdfe6274346c1dd",
-      "download_count": 125,
+      "download_count": 126,
       "created_at": "2026-04-09T20:13:21Z",
       "updated_at": "2026-04-09T20:13:22Z",
       "browser_download_url": "https://github.com/sharkdp/vivid/releases/download/v0.11.1/vivid-musl_0.11.1_amd64.deb"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 421770,
       "digest": "sha256:b376d8d91f08df7a7ea3fcbeabaec04038bd29c6f8371a07374f96fa7cc61e85",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-04-09T20:18:23Z",
       "updated_at": "2026-04-09T20:18:23Z",
       "browser_download_url": "https://github.com/sharkdp/vivid/releases/download/v0.11.1/vivid-musl_0.11.1_armhf.deb"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 457940,
       "digest": "sha256:effd66b1b823a74b55214304ff4c2da34c08d9c1937db7290931200db88d83ac",
-      "download_count": 14,
+      "download_count": 15,
       "created_at": "2026-04-09T20:13:11Z",
       "updated_at": "2026-04-09T20:13:12Z",
       "browser_download_url": "https://github.com/sharkdp/vivid/releases/download/v0.11.1/vivid-musl_0.11.1_i686.deb"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 411688,
       "digest": "sha256:82b23caf7c2fd0adeead0df197c76d5d997c57887a6265e7e63e729daec18570",
-      "download_count": 904,
+      "download_count": 908,
       "created_at": "2026-04-09T20:13:02Z",
       "updated_at": "2026-04-09T20:13:02Z",
       "browser_download_url": "https://github.com/sharkdp/vivid/releases/download/v0.11.1/vivid-v0.11.1-aarch64-apple-darwin.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 423572,
       "digest": "sha256:99bf6438b3403bc9255a83363fe5ed49a0f8bd86377a561420836af14dc8e9ee",
-      "download_count": 1484,
+      "download_count": 1488,
       "created_at": "2026-04-09T20:13:29Z",
       "updated_at": "2026-04-09T20:13:29Z",
       "browser_download_url": "https://github.com/sharkdp/vivid/releases/download/v0.11.1/vivid-v0.11.1-aarch64-unknown-linux-gnu.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 445866,
       "digest": "sha256:1bf4595655e1c2032620aa8a2d676722abc72eed987cf9a90909053a2e2a54b0",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-04-09T20:13:29Z",
       "updated_at": "2026-04-09T20:13:30Z",
       "browser_download_url": "https://github.com/sharkdp/vivid/releases/download/v0.11.1/vivid-v0.11.1-arm-unknown-linux-gnueabihf.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 472975,
       "digest": "sha256:7fddb9acf2f92a3dcd7138a1884c46b457b64eabb991f02f7610186ae9cb0bb3",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-04-09T20:18:23Z",
       "updated_at": "2026-04-09T20:18:23Z",
       "browser_download_url": "https://github.com/sharkdp/vivid/releases/download/v0.11.1/vivid-v0.11.1-arm-unknown-linux-musleabihf.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 354547,
       "digest": "sha256:0ad28a3305d604f706f68e95f1e2345bf2e4e135008d26dc3aafa99035c97102",
-      "download_count": 300,
+      "download_count": 302,
       "created_at": "2026-04-09T20:14:14Z",
       "updated_at": "2026-04-09T20:14:14Z",
       "browser_download_url": "https://github.com/sharkdp/vivid/releases/download/v0.11.1/vivid-v0.11.1-i686-pc-windows-msvc.zip"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 478225,
       "digest": "sha256:d3753048c998b888235aea4c60b1c8957bc2dd4b0c29bf8f680ceb79615d2735",
-      "download_count": 30,
+      "download_count": 31,
       "created_at": "2026-04-09T20:13:13Z",
       "updated_at": "2026-04-09T20:13:13Z",
       "browser_download_url": "https://github.com/sharkdp/vivid/releases/download/v0.11.1/vivid-v0.11.1-i686-unknown-linux-gnu.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 512145,
       "digest": "sha256:1b29dc052668498c746c37cc40e02ed8f9982810dd44d5ede4ccd9662393cbdf",
-      "download_count": 15,
+      "download_count": 16,
       "created_at": "2026-04-09T20:13:11Z",
       "updated_at": "2026-04-09T20:13:12Z",
       "browser_download_url": "https://github.com/sharkdp/vivid/releases/download/v0.11.1/vivid-v0.11.1-i686-unknown-linux-musl.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 441143,
       "digest": "sha256:b10548ea09e54d3015fb348466d0c33356106e52e8848545dc5b40fbe57b5547",
-      "download_count": 439,
+      "download_count": 441,
       "created_at": "2026-04-09T20:13:06Z",
       "updated_at": "2026-04-09T20:13:06Z",
       "browser_download_url": "https://github.com/sharkdp/vivid/releases/download/v0.11.1/vivid-v0.11.1-x86_64-apple-darwin.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 428360,
       "digest": "sha256:759ccc28a7361c63e59ac28a8df91b45f97866809af46a2d743abd85515c11b8",
-      "download_count": 30,
+      "download_count": 31,
       "created_at": "2026-04-09T20:14:55Z",
       "updated_at": "2026-04-09T20:14:56Z",
       "browser_download_url": "https://github.com/sharkdp/vivid/releases/download/v0.11.1/vivid-v0.11.1-x86_64-pc-windows-gnu.zip"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 374838,
       "digest": "sha256:2bc2700c9cae57c43c6abbb1063e755977972b81e8eb34f266750aabd02a9cf1",
-      "download_count": 1170,
+      "download_count": 1181,
       "created_at": "2026-04-09T20:14:18Z",
       "updated_at": "2026-04-09T20:14:19Z",
       "browser_download_url": "https://github.com/sharkdp/vivid/releases/download/v0.11.1/vivid-v0.11.1-x86_64-pc-windows-msvc.zip"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 454840,
       "digest": "sha256:7060e45ba1fc5b25d521704e65d2e5d92c1b219c06b7183ec120a87e1fc376d7",
-      "download_count": 2495,
+      "download_count": 2529,
       "created_at": "2026-04-09T20:13:03Z",
       "updated_at": "2026-04-09T20:13:04Z",
       "browser_download_url": "https://github.com/sharkdp/vivid/releases/download/v0.11.1/vivid-v0.11.1-x86_64-unknown-linux-gnu.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 501393,
       "digest": "sha256:f1a80a39c75ceae43c4187f302e66c0a45d941ed1479456a0d5ddef665663181",
-      "download_count": 6885,
+      "download_count": 6907,
       "created_at": "2026-04-09T20:13:21Z",
       "updated_at": "2026-04-09T20:13:22Z",
       "browser_download_url": "https://github.com/sharkdp/vivid/releases/download/v0.11.1/vivid-v0.11.1-x86_64-unknown-linux-musl.tar.gz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 400650,
       "digest": "sha256:3c1054ec5dc917f0cdae6e78858e744b0a0b852a880b79fd05f7975a2ec6f0da",
-      "download_count": 358,
+      "download_count": 362,
       "created_at": "2026-04-09T20:13:03Z",
       "updated_at": "2026-04-09T20:13:03Z",
       "browser_download_url": "https://github.com/sharkdp/vivid/releases/download/v0.11.1/vivid_0.11.1_amd64.deb"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 370288,
       "digest": "sha256:3586cf32a8eb4ac0ff2aac37ac3d1291f79d148269880eaa1f2af0ac8cea7cba",
-      "download_count": 83,
+      "download_count": 85,
       "created_at": "2026-04-09T20:13:29Z",
       "updated_at": "2026-04-09T20:13:29Z",
       "browser_download_url": "https://github.com/sharkdp/vivid/releases/download/v0.11.1/vivid_0.11.1_arm64.deb"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 393592,
       "digest": "sha256:10b06666e328e0350b544333a082deb9de98f66023a853e787cb1120c5571260",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-04-09T20:13:29Z",
       "updated_at": "2026-04-09T20:13:30Z",
       "browser_download_url": "https://github.com/sharkdp/vivid/releases/download/v0.11.1/vivid_0.11.1_armhf.deb"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 430426,
       "digest": "sha256:333e800bcd8a83374b1d9ca00051d356984385dc61bfb588e3043d68015a8b76",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-04-09T20:13:13Z",
       "updated_at": "2026-04-09T20:13:13Z",
       "browser_download_url": "https://github.com/sharkdp/vivid/releases/download/v0.11.1/vivid_0.11.1_i686.deb"
