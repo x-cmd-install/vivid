@@ -42,7 +42,7 @@ x install vivid
 ## 发布
 
 - **最新版本**: `v0.11.1` (2026-04-09)
-- **最近提交**: 2026-09-11
+- **最近提交**: 2026-09-14
 - **Release 含资产**: 19 个
 
 ## 流行度
@@ -51,18 +51,18 @@ x install vivid
 
 ## 累计统计
 
-- **发布数**: 14 · **已合并 PR**: 118 · **开放 PR**: 10 · **已关闭 issue**: 71 · **开放 issue**: 21 · **提交数**: 376
+- **发布数**: 14 · **已合并 PR**: 119 · **开放 PR**: 10 · **已关闭 issue**: 71 · **开放 issue**: 21 · **提交数**: 377
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 9 | 1 | 0 | 1 | 7 |
-| last60d | 2026-07-15 | 0 | 28 | 2 | 2 | 3 | 20 |
-| 90d | 2026-06-15 | 0 | 28 | 2 | 2 | 3 | 29 |
-| last180d | 2026-03-17 | 3 | 31 | 6 | 4 | 4 | 36 |
-| 360d | 2025-09-18 | 3 | 42 | 9 | 7 | 5 | 48 |
-| last720d | 2024-09-23 | 3 | 50 | 10 | 15 | 8 | 96 |
+| 30d | 2026-08-15 | 0 | 10 | 1 | 0 | 1 | 8 |
+| last60d | 2026-07-16 | 0 | 29 | 2 | 2 | 3 | 21 |
+| 90d | 2026-06-16 | 0 | 29 | 2 | 2 | 3 | 30 |
+| last180d | 2026-03-18 | 3 | 32 | 6 | 4 | 4 | 37 |
+| 360d | 2025-09-19 | 3 | 43 | 9 | 7 | 5 | 49 |
+| last720d | 2024-09-24 | 3 | 51 | 10 | 15 | 8 | 97 |
 
 ## Release 资产
 
@@ -88,18 +88,6 @@ x install vivid
 | [vivid_0.11.1_armhf.deb](https://github.com/sharkdp/vivid/releases/download/v0.11.1/vivid_0.11.1_armhf.deb) | 384.4 KiB | `runtime/deb/armhf` |
 | [vivid_0.11.1_i686.deb](https://github.com/sharkdp/vivid/releases/download/v0.11.1/vivid_0.11.1_i686.deb) | 420.3 KiB | `other` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/vivid) 上共有 **34** 个发行版报告此项目。**17** 个 ✅ 已是最新上游版本，**14** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Arch | `0.11.1` | ✅ latest |
-| Homebrew | `0.11.1` | ✅ latest |
-| Nix unstable | `0.11.1` | ✅ latest |
-| Void | `0.11.1` | ✅ latest |
-| Alpine edge | `0.11.1` | ✅ latest |
-
 ## 改进这些数据
 
 vivid 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `vivid` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -109,4 +97,4 @@ vivid 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T05:58:57Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T06:05:17Z._
