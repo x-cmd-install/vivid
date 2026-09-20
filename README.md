@@ -4,7 +4,7 @@
 
 A themeable LS_COLORS generator with a rich filetype datebase
 
-![vivid](https://repo.x-cmd.io/vivid.svg)
+[![x-cmd/install — vivid Code Quality Monitoring Repo Card](https://repo.x-cmd.io/vivid.svg)](https://x-cmd.com/install/vivid)
 
 ## Install
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,265 · **Forks**: 113 · **Open issues**: 92 · **Contributors**: 54
+- **Stars**: 2,266 · **Forks**: 113 · **Open issues**: 92 · **Contributors**: 54
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 8 | 1 | 0 | 1 | 8 |
-| last60d | 2026-07-20 | 0 | 21 | 2 | 1 | 2 | 21 |
-| 90d | 2026-06-20 | 0 | 29 | 2 | 2 | 3 | 30 |
-| last180d | 2026-03-22 | 3 | 32 | 6 | 4 | 4 | 37 |
-| 360d | 2025-09-23 | 3 | 43 | 9 | 7 | 5 | 49 |
-| last720d | 2024-09-28 | 3 | 51 | 10 | 15 | 8 | 97 |
+| 30d | 2026-08-21 | 0 | 8 | 1 | 0 | 1 | 7 |
+| last60d | 2026-07-22 | 0 | 19 | 2 | 1 | 2 | 14 |
+| 90d | 2026-06-22 | 0 | 29 | 2 | 2 | 3 | 30 |
+| last180d | 2026-03-24 | 3 | 32 | 6 | 4 | 3 | 37 |
+| 360d | 2025-09-25 | 3 | 43 | 9 | 7 | 5 | 49 |
+| last720d | 2024-09-30 | 3 | 50 | 10 | 15 | 8 | 97 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for vivid lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:56:14Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:57:59Z._
