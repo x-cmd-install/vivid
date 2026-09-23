@@ -4,7 +4,7 @@
 
 A themeable LS_COLORS generator with a rich filetype datebase
 
-[![x-cmd/install — vivid Code Quality Monitoring Repo Card](https://repo.x-cmd.io/vivid.svg)](https://x-cmd.com/install/vivid)
+[![x-cmd/install — vivid Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/vivid.svg)](https://x-cmd.com/install/vivid)
 
 ## Install
 
@@ -30,7 +30,7 @@ Overall score: **4.9 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (3/10) — Found 5/14 approved changesets -- score normalized to 3
+- **Code-Review** (3/10) — Found 5/15 approved changesets -- score normalized to 3
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,269 · **Forks**: 113 · **Open issues**: 92 · **Contributors**: 54
+- **Stars**: 2,270 · **Forks**: 114 · **Open issues**: 92 · **Contributors**: 54
 
 ## Totals (cumulative)
 
-- **Releases**: 14 · **Merged PRs**: 120 · **Open PRs**: 10 · **Closed issues**: 71 · **Open issues**: 21 · **Commits**: 378
+- **Releases**: 14 · **Merged PRs**: 120 · **Open PRs**: 11 · **Closed issues**: 71 · **Open issues**: 21 · **Commits**: 378
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 9 | 1 | 0 | 1 | 8 |
-| last60d | 2026-07-24 | 0 | 14 | 2 | 1 | 1 | 15 |
-| 90d | 2026-06-24 | 0 | 30 | 2 | 2 | 3 | 31 |
-| last180d | 2026-03-26 | 3 | 33 | 6 | 4 | 3 | 38 |
-| 360d | 2025-09-27 | 3 | 44 | 9 | 7 | 5 | 50 |
-| last720d | 2024-10-02 | 3 | 51 | 10 | 15 | 8 | 94 |
+| 30d | 2026-08-24 | 0 | 8 | 2 | 0 | 1 | 8 |
+| last60d | 2026-07-25 | 0 | 14 | 3 | 1 | 1 | 15 |
+| 90d | 2026-06-25 | 0 | 30 | 3 | 2 | 3 | 31 |
+| last180d | 2026-03-27 | 3 | 33 | 7 | 3 | 3 | 38 |
+| 360d | 2025-09-28 | 3 | 44 | 10 | 7 | 5 | 50 |
+| last720d | 2024-10-03 | 3 | 50 | 11 | 15 | 8 | 94 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for vivid lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:00:10Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:11:53Z._
