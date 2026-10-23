@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,277 · **Forks**: 113 · **Open issues**: 93 · **Contributors**: 55
+- **Stars**: 2,278 · **Forks**: 113 · **Open issues**: 93 · **Contributors**: 55
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 4 | 2 | 0 | 1 | 4 |
-| last60d | 2026-08-23 | 0 | 14 | 3 | 0 | 2 | 13 |
-| 90d | 2026-07-24 | 0 | 19 | 4 | 1 | 2 | 20 |
-| last180d | 2026-04-25 | 0 | 37 | 6 | 2 | 4 | 38 |
-| 360d | 2025-10-27 | 3 | 48 | 11 | 7 | 5 | 54 |
-| last720d | 2024-11-01 | 3 | 55 | 12 | 15 | 9 | 100 |
+| 30d | 2026-09-23 | 0 | 4 | 2 | 0 | 1 | 4 |
+| last60d | 2026-08-24 | 0 | 13 | 3 | 0 | 2 | 13 |
+| 90d | 2026-07-25 | 0 | 19 | 4 | 1 | 2 | 20 |
+| last180d | 2026-04-26 | 0 | 37 | 6 | 2 | 4 | 38 |
+| 360d | 2025-10-28 | 3 | 48 | 11 | 7 | 5 | 54 |
+| last720d | 2024-11-02 | 3 | 55 | 12 | 15 | 9 | 100 |
 
 ## Release assets
 
@@ -88,6 +88,18 @@ Lowest-scoring checks:
 | [vivid_0.11.1_armhf.deb](https://github.com/sharkdp/vivid/releases/download/v0.11.1/vivid_0.11.1_armhf.deb) | 384.4 KiB | `runtime/deb/armhf` |
 | [vivid_0.11.1_i686.deb](https://github.com/sharkdp/vivid/releases/download/v0.11.1/vivid_0.11.1_i686.deb) | 420.3 KiB | `other` |
 
+## Distribution status
+
+Reported by **34** distros on [repology.org](https://repology.org/project/vivid). **20** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `0.11.1` | ✅ latest |
+| Homebrew | `0.11.1` | ✅ latest |
+| Nix unstable | `0.11.1` | ✅ latest |
+| Void | `0.11.1` | ✅ latest |
+| Alpine edge | `0.11.1` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for vivid lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `vivid` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -97,4 +109,4 @@ Install metadata for vivid lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:32:51Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:41:53Z._
