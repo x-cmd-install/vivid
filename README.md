@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 0 | 4 | 2 | 0 | 1 | 4 |
-| last60d | 2026-08-24 | 0 | 13 | 3 | 0 | 2 | 13 |
-| 90d | 2026-07-25 | 0 | 19 | 4 | 1 | 2 | 20 |
-| last180d | 2026-04-26 | 0 | 37 | 6 | 2 | 4 | 38 |
-| 360d | 2025-10-28 | 3 | 48 | 11 | 7 | 5 | 54 |
-| last720d | 2024-11-02 | 3 | 55 | 12 | 15 | 9 | 100 |
+| 30d | 2026-09-24 | 0 | 4 | 2 | 0 | 1 | 4 |
+| last60d | 2026-08-25 | 0 | 13 | 2 | 0 | 2 | 13 |
+| 90d | 2026-07-26 | 0 | 19 | 4 | 1 | 2 | 20 |
+| last180d | 2026-04-27 | 0 | 37 | 5 | 2 | 4 | 38 |
+| 360d | 2025-10-29 | 3 | 48 | 11 | 7 | 5 | 54 |
+| last720d | 2024-11-03 | 3 | 55 | 12 | 15 | 9 | 100 |
 
 ## Release assets
 
@@ -109,4 +109,4 @@ Install metadata for vivid lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T05:41:53Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T05:25:07Z._
