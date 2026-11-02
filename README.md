@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,285 · **Forks**: 113 · **Open issues**: 93 · **Contributors**: 55
+- **Stars**: 2,286 · **Forks**: 113 · **Open issues**: 93 · **Contributors**: 55
 
 ## Totals (cumulative)
 
-- **Releases**: 14 · **Merged PRs**: 125 · **Open PRs**: 13 · **Closed issues**: 72 · **Open issues**: 21 · **Commits**: 384
+- **Releases**: 14 · **Merged PRs**: 125 · **Open PRs**: 14 · **Closed issues**: 72 · **Open issues**: 21 · **Commits**: 384
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 0 | 3 | 2 | 0 | 0 | 2 |
-| last60d | 2026-09-02 | 0 | 10 | 3 | 0 | 2 | 7 |
-| 90d | 2026-08-03 | 0 | 17 | 4 | 0 | 2 | 18 |
-| last180d | 2026-05-05 | 0 | 36 | 6 | 2 | 4 | 36 |
-| 360d | 2025-11-06 | 3 | 48 | 12 | 7 | 5 | 54 |
-| last720d | 2024-11-11 | 3 | 55 | 13 | 15 | 8 | 100 |
+| 30d | 2026-10-03 | 0 | 3 | 3 | 0 | 0 | 2 |
+| last60d | 2026-09-03 | 0 | 10 | 4 | 0 | 2 | 7 |
+| 90d | 2026-08-04 | 0 | 17 | 5 | 0 | 2 | 18 |
+| last180d | 2026-05-06 | 0 | 36 | 7 | 2 | 4 | 36 |
+| 360d | 2025-11-07 | 3 | 48 | 13 | 7 | 5 | 54 |
+| last720d | 2024-11-12 | 3 | 55 | 14 | 15 | 8 | 100 |
 
 ## Release assets
 
@@ -90,7 +90,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **34** distros on [repology.org](https://repology.org/project/vivid). **20** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
+Reported by **34** distros on [repology.org](https://repology.org/project/vivid). **18** are ✅ on the latest upstream release, **13** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -109,4 +109,4 @@ Install metadata for vivid lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T07:03:23Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T07:06:24Z._
