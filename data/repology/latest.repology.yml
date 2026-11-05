@@ -1,3 +1,18 @@
+- repo: gnuguix
+  srcname: vivid
+  binname: vivid
+  visiblename: vivid
+  version: 0.10.1
+  origversion: null
+  status: outdated
+  summary: LS_COLORS environment variable manager
+- repo: homebrew
+  srcname: vivid
+  visiblename: vivid
+  version: 0.11.1
+  origversion: null
+  status: newest
+  summary: Generator for LS_COLORS with support for multiple color themes
 - repo: alpine_3_21
   subrepo: community
   srcname: vivid
@@ -123,6 +138,27 @@
     - MIT
   categories:
     - app-shells
+- repo: nix_unstable
+  srcname: vivid
+  visiblename: vivid
+  version: 0.11.1
+  origversion: null
+  status: newest
+  summary: Generator for LS_COLORS with support for multiple color themes
+  maintainers:
+    - fallback-mnt-nix@repology
+- repo: parabola
+  subrepo: extra
+  srcname: vivid
+  binname: vivid
+  visiblename: vivid
+  version: 0.11.1
+  origversion: 0.11.1-1
+  status: newest
+  summary: LS_COLORS manager with multiple themes
+  licenses:
+    - Apache-2.0
+    - MIT
 - repo: gentoo_ovl_guru
   srcname: app-shells/vivid
   visiblename: app-shells/vivid
@@ -136,21 +172,6 @@
     - '|| ( Apache-2.0 MIT ) LGPL-3+ MIT Unicode-DFS-2016'
   categories:
     - app-shells
-- repo: gnuguix
-  srcname: vivid
-  binname: vivid
-  visiblename: vivid
-  version: 0.10.1
-  origversion: null
-  status: outdated
-  summary: LS_COLORS environment variable manager
-- repo: homebrew
-  srcname: vivid
-  visiblename: vivid
-  version: 0.11.1
-  origversion: null
-  status: newest
-  summary: Generator for LS_COLORS with support for multiple color themes
 - repo: liguros_stable
   srcname: app-shells/vivid
   visiblename: app-shells/vivid
@@ -192,6 +213,15 @@
     - MIT
   categories:
     - app-shells
+- repo: scoop
+  subrepo: main
+  binname: vivid
+  visiblename: vivid
+  version: 0.11.1
+  origversion: null
+  status: newest
+  licenses:
+    - Apache-2.0|MIT
 - repo: liguros_develop
   srcname: app-shells/vivid
   visiblename: app-shells/vivid
@@ -346,39 +376,6 @@
   licenses:
     - Apache-2.0
     - MIT
-- repo: nix_unstable
-  srcname: vivid
-  visiblename: vivid
-  version: 0.11.1
-  origversion: null
-  status: newest
-  summary: Generator for LS_COLORS with support for multiple color themes
-  maintainers:
-    - fallback-mnt-nix@repology
-  licenses:
-    - Apache-2.0
-    - MIT
-- repo: parabola
-  subrepo: extra
-  srcname: vivid
-  binname: vivid
-  visiblename: vivid
-  version: 0.11.1
-  origversion: 0.11.1-1
-  status: newest
-  summary: LS_COLORS manager with multiple themes
-  licenses:
-    - Apache-2.0
-    - MIT
-- repo: scoop
-  subrepo: main
-  binname: vivid
-  visiblename: vivid
-  version: 0.11.1
-  origversion: null
-  status: newest
-  licenses:
-    - Apache-2.0|MIT
 - repo: termux
   srcname: vivid
   binname: vivid
